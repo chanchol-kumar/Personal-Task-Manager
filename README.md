@@ -1,5 +1,5 @@
 # Personal-Task-Manager
-### API : http://chanchol2020.pythonanywhere.com/task/
+### API : https://personal-task-manager-41lf.onrender.com/task/
 
 ### FrontEnd (React) : https://github.com/chanchol-kumar/Personal-Task-Manager-Frontend-
-### Live link : 
+### Live link : https://personal-task-manager20.netlify.app/
